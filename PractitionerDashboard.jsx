@@ -149,9 +149,9 @@ const PractitionerDischargeDashboard = () => {
       <div className="max-w-7xl mx-auto">
         {/* Header */}
         <div className="text-center mb-8">
-          <h1 className="text-4xl font-bold text-gray-800 mb-2">Greencare Executive Dashboard</h1>
+          <h1 className="text-4xl font-bold text-gray-800 mb-2">Greencare Practitioner Dashboard</h1>
           <p className="text-gray-600 text-lg">Practitioner Discharge Analysis & Performance Overview</p>
-          <p className="text-gray-500 text-sm mt-2">Data as of 10/06/25</p>
+          <p className="text-gray-500 text-sm mt-2">Month of June 2025</p>
         </div>
 
         {/* Key Metrics Cards */}
